@@ -1,4 +1,5 @@
 rootProject.name = 'selenium-testing'
 include 'core'
 include 'the-internet-herokuapp-com-forgot-password'
+include 'testing-core'
 
